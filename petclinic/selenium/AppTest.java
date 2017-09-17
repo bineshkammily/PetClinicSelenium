@@ -12,7 +12,7 @@ public class AppTest {
 	
 	@BeforeSuite(alwaysRun = true)
 	public void initialize(){
-		System.setProperty("webdriver.chrome.driver","Driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Selenium\\Driver\\chromedriver.exe");
 		driver=new ChromeDriver();
 	}
 
