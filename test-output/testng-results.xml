@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15171" started-at="2017-09-17T11:26:06Z" finished-at="2017-09-17T11:26:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15171" started-at="2017-09-17T11:26:06Z" finished-at="2017-09-17T11:26:21Z">
+      <class name="PetClinic.PetClinic.AppTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:PetClinic.PetClinic.AppTest@4f4a7090]" name="initialize" is-config="true" duration-ms="6479" started-at="2017-09-17T16:55:59Z" finished-at="2017-09-17T16:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:PetClinic.PetClinic.AppTest@4f4a7090]" name="testMethod" duration-ms="15150" started-at="2017-09-17T16:56:06Z" finished-at="2017-09-17T16:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="clear()[pri:0, instance:PetClinic.PetClinic.AppTest@4f4a7090]" name="clear" is-config="true" duration-ms="538" started-at="2017-09-17T16:56:21Z" finished-at="2017-09-17T16:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clear -->
+      </class> <!-- PetClinic.PetClinic.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
